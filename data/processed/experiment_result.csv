@@ -1,0 +1,2 @@
+control_users,treatment_users,control_purchase_rate_pct,treatment_purchase_rate_pct,absolute_uplift_pct_points,relative_uplift_pct,z_score,p_value,significant_at_5pct
+3000,3000,14.33,18.47,4.13,28.84,4.323,2e-05,Yes

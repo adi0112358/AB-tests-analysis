@@ -1,0 +1,3 @@
+experiment_group,users,signup_rate_pct,purchase_rate_pct,revenue_per_user,avg_session_duration_sec,avg_pages_viewed
+control,3000,29.7,14.33,16.26,222.45,5.99
+treatment,3000,37.1,18.47,21.58,234.54,6.38

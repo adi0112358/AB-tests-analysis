@@ -1,0 +1,4 @@
+device_type,control,treatment,purchase_rate_uplift_pct_points,revenue_uplift
+Tablet,12.83,19.86,7.03,7.71
+Mobile,12.85,17.04,4.19,5.55
+Desktop,17.01,20.28,3.27,4.35

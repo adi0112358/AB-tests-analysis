@@ -1,0 +1,5 @@
+traffic_source,control,treatment,purchase_rate_uplift_pct_points,revenue_uplift
+Email,19.19,25.36,6.17,7.24
+Organic Search,12.49,18.62,6.13,7.89
+Social,12.45,17.39,4.94,6.26
+Paid Search,14.81,14.91,0.1,0.63
