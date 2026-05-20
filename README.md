@@ -1,6 +1,6 @@
 # A/B Test Analysis
 
-An end-to-end data analyst portfolio project focused on evaluating whether a product change improved business performance. This project simulates a realistic signup-to-purchase experiment, measures treatment impact across key funnel metrics, and translates statistical results into business recommendations.
+An end-to-end data analyst project focused on evaluating whether a product change improved business performance. This project simulates a realistic signup-to-purchase experiment, measures treatment impact across key funnel metrics, and translates statistical results into business recommendations.
 
 ## Business Goal
 
@@ -79,15 +79,3 @@ streamlit run dashboard/app.py
 - `data/processed/*.csv`: summarized KPI and segment tables
 - `reports/experiment_summary.md`: stakeholder-facing findings
 
-## Example Resume Bullets
-
-- Built an end-to-end A/B test analysis project using SQL, Python, SQLite, and Streamlit to evaluate product experiment performance across conversion, revenue, and engagement metrics.
-- Simulated and analyzed user-level experiment data, quantified treatment uplift, and segmented results by device, traffic source, and landing page.
-- Produced decision-ready recommendations by combining KPI impact analysis with statistical significance checks and segment-level diagnostics.
-
-## Suggested Interview Talking Points
-
-- How you chose primary and secondary metrics
-- How you evaluated uplift and statistical significance
-- Why segment analysis matters before rolling out an experiment
-- What decision rule you would recommend for launch
